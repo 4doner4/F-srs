@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U8aoVfwfeqiS5yAzwzM1XT/2ViQpHpVliG7MHeXg22YAsmHsNmTpx1U5VEpIkqmTQw/FwI+3JuU25/7GG8dp7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\damir.ametov\\source\\repos\\FsharpSrs\\FsharpSrs\\FsharpSrs.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damir.ametov\\.nuget\\packages\\fsharp.core\\6.0.6\\fsharp.core.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
